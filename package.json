@@ -1,0 +1,24 @@
+{
+    "name": "phantom-scraper",
+    "version": "0.0.5",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "tony",
+    "contributors": [
+    ],
+    "dependencies": {
+        "cheerio": "0.20.0",
+        "bluebird": "3.4.0",
+        "phantom": "2.1.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node main.js"
+    }
+
+}
